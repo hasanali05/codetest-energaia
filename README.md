@@ -1,3 +1,3 @@
-# techtune
+# Energaia
 
-techtune blogging site.
+Code test project.
